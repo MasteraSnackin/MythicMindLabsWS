@@ -93,28 +93,4 @@ export default {
   "Contact Sales": "联系销售",
   "Coming Soon": "即将推出",
   "Stay tuned for our educational partnership program, offering special pricing for schools and educational institutions.": "敬请期待我们的教育合作计划，为学校和教育机构提供特别定价。",
-
-  // Community Page
-  "Community Hub": "社区中心",
-  "Connect with fellow storytellers, educators, and readers": "与其他故事创作者、教育工作者和读者联系",
-  "Featured Stories": "精选故事",
-  "Discussion Forums": "讨论论坛",
-  "Educational Resources": "教育资源",
-  "Community Events": "社区活动",
-  "The Magic Library": "魔法图书馆",
-  "Space Adventures": "太空冒险",
-  "Time Travelers": "时间旅行者",
-  "Writing Tips": "写作技巧",
-  "Story Ideas": "故事创意",
-  "Technical Help": "技术帮助",
-  "Lesson Plans": "课程计划",
-  "Writing Guides": "写作指南",
-  "Reading Strategies": "阅读策略",
-  "Writing Workshop": "写作工作坊",
-  "Story Reading": "故事阅读",
-  "Teacher Training": "教师培训",
-  "Read": "阅读",
-  "Join": "加入",
-  "Download": "下载",
-  "Register": "注册"
 };

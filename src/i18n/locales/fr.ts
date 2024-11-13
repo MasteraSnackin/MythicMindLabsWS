@@ -93,28 +93,4 @@ export default {
   "Contact Sales": "Contacter les Ventes",
   "Coming Soon": "Bientôt Disponible",
   "Stay tuned for our educational partnership program, offering special pricing for schools and educational institutions.": "Restez à l'écoute pour notre programme de partenariat éducatif, offrant des tarifs spéciaux pour les écoles et les institutions éducatives.",
-
-  // Community Page
-  "Community Hub": "Espace Communautaire",
-  "Connect with fellow storytellers, educators, and readers": "Connectez-vous avec d'autres conteurs, éducateurs et lecteurs",
-  "Featured Stories": "Histoires en Vedette",
-  "Discussion Forums": "Forums de Discussion",
-  "Educational Resources": "Ressources Éducatives",
-  "Community Events": "Événements Communautaires",
-  "The Magic Library": "La Bibliothèque Magique",
-  "Space Adventures": "Aventures Spatiales",
-  "Time Travelers": "Voyageurs du Temps",
-  "Writing Tips": "Conseils d'Écriture",
-  "Story Ideas": "Idées d'Histoires",
-  "Technical Help": "Aide Technique",
-  "Lesson Plans": "Plans de Cours",
-  "Writing Guides": "Guides d'Écriture",
-  "Reading Strategies": "Stratégies de Lecture",
-  "Writing Workshop": "Atelier d'Écriture",
-  "Story Reading": "Lecture d'Histoires",
-  "Teacher Training": "Formation des Enseignants",
-  "Read": "Lire",
-  "Join": "Rejoindre",
-  "Download": "Télécharger",
-  "Register": "S'inscrire"
 };
