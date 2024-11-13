@@ -15,7 +15,6 @@ export default {
   "Privacy Policy": "Privacy Policy",
   "Terms": "Terms",
 
-  // Privacy Policy Page
   "How we protect and handle your data": "How we protect and handle your data",
   "Data Collection & Usage": "Data Collection & Usage",
   "At Mythic Mind Labs, we take your privacy seriously. We collect only essential information needed to provide you with the best interactive storytelling experience.": "At Mythic Mind Labs, we take your privacy seriously. We collect only essential information needed to provide you with the best interactive storytelling experience.",
@@ -46,7 +45,6 @@ export default {
   "CYOA Books Sold Worldwide": "CYOA Books Sold Worldwide",
   "Market Size by 2027": "Market Size by 2027",
 
-  // Contact Page
   "Contact Us": "Contact Us",
   "We'd love to hear from you. Send us a message and we'll respond as soon as possible.": "We'd love to hear from you. Send us a message and we'll respond as soon as possible.",
   "Email": "Email",
@@ -92,6 +90,5 @@ export default {
   "Contact Sales": "Contact Sales",
   "Coming Soon": "Coming Soon",
   "Stay tuned for our educational partnership program, offering special pricing for schools and educational institutions.": "Stay tuned for our educational partnership program, offering special pricing for schools and educational institutions.",
-  "Get Started": "Get Started",
   "/mo": "/mo"
 };

@@ -19,9 +19,9 @@ export default {
   "Choose Your Adventure Plan": "Elige tu Plan de Aventura",
   "Flexible plans for every storyteller": "Planes flexibles para cada narrador",
   "Free Explorer": "Explorador Gratuito",
+  "Most Popular": "Más Popular",
   "Story Weaver": "Tejedor de Historias",
   "Education Pro": "Educación Pro",
-  "Most Popular": "Más Popular",
   "Custom": "Personalizado",
   "Access to sample stories": "Acceso a historias de muestra",
   "Basic AI features": "Funciones básicas de IA",
@@ -42,6 +42,5 @@ export default {
   "Contact Sales": "Contactar Ventas",
   "Coming Soon": "Próximamente",
   "Stay tuned for our educational partnership program, offering special pricing for schools and educational institutions.": "Mantente atento a nuestro programa de asociación educativa, que ofrece precios especiales para escuelas e instituciones educativas.",
-  "Get Started": "Comenzar",
   "/mo": "/mes"
 };

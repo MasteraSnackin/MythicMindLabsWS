@@ -15,7 +15,6 @@ export default {
   "Privacy Policy": "Politique de Confidentialité",
   "Terms": "Conditions",
 
-  // Privacy Policy Page
   "How we protect and handle your data": "Comment nous protégeons et gérons vos données",
   "Data Collection & Usage": "Collecte et Utilisation des Données",
   "At Mythic Mind Labs, we take your privacy seriously. We collect only essential information needed to provide you with the best interactive storytelling experience.": "Chez Mythic Mind Labs, nous prenons votre vie privée au sérieux. Nous ne collectons que les informations essentielles nécessaires pour vous offrir la meilleure expérience de narration interactive.",
@@ -32,7 +31,6 @@ export default {
   "Data Protection:": "Protection des Données :",
   "We employ industry-standard security measures to protect your data. All information is encrypted and stored securely. We never share your personal information with third parties without your explicit consent.": "Nous employons des mesures de sécurité standard de l'industrie pour protéger vos données. Toutes les informations sont cryptées et stockées en toute sécurité. Nous ne partageons jamais vos informations personnelles avec des tiers sans votre consentement explicite.",
 
-  // About Us Page
   "Our Story": "Notre Histoire",
   "Born in a 36-hour hackathon, fueled by passion and innovation": "Né lors d'un hackathon de 36 heures, alimenté par la passion et l'innovation",
   "The Hackathon Origin": "L'Origine du Hackathon",
@@ -46,7 +44,6 @@ export default {
   "CYOA Books Sold Worldwide": "Livres CYOA Vendus dans le Monde",
   "Market Size by 2027": "Taille du Marché pour 2027",
 
-  // Contact Page
   "Contact Us": "Contactez-nous",
   "We'd love to hear from you. Send us a message and we'll respond as soon as possible.": "Nous aimerions avoir de vos nouvelles. Envoyez-nous un message et nous vous répondrons dès que possible.",
   "Email": "E-mail",
@@ -69,9 +66,9 @@ export default {
   "Choose Your Adventure Plan": "Choisissez Votre Plan d'Aventure",
   "Flexible plans for every storyteller": "Des plans flexibles pour chaque conteur",
   "Free Explorer": "Explorateur Gratuit",
+  "Most Popular": "Le Plus Populaire",
   "Story Weaver": "Tisseur d'Histoires",
   "Education Pro": "Éducation Pro",
-  "Most Popular": "Le Plus Populaire",
   "Custom": "Personnalisé",
   "Access to sample stories": "Accès aux histoires d'exemple",
   "Basic AI features": "Fonctionnalités IA de base",
@@ -92,6 +89,5 @@ export default {
   "Contact Sales": "Contacter les Ventes",
   "Coming Soon": "Bientôt Disponible",
   "Stay tuned for our educational partnership program, offering special pricing for schools and educational institutions.": "Restez à l'écoute pour notre programme de partenariat éducatif, offrant des tarifs spéciaux pour les écoles et les institutions éducatives.",
-  "Get Started": "Commencer",
   "/mo": "/mois"
 };

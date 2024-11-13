@@ -69,9 +69,9 @@ export default {
   "Choose Your Adventure Plan": "选择您的冒险计划",
   "Flexible plans for every storyteller": "为每位讲故事的人提供灵活的计划",
   "Free Explorer": "免费探索版",
+  "Most Popular": "最受欢迎",
   "Story Weaver": "故事编织者",
   "Education Pro": "教育专业版",
-  "Most Popular": "最受欢迎",
   "Custom": "定制",
   "Access to sample stories": "访问示例故事",
   "Basic AI features": "基础AI功能",
@@ -92,6 +92,5 @@ export default {
   "Contact Sales": "联系销售",
   "Coming Soon": "即将推出",
   "Stay tuned for our educational partnership program, offering special pricing for schools and educational institutions.": "敬请期待我们的教育合作计划，为学校和教育机构提供特别定价。",
-  "Get Started": "开始使用",
   "/mo": "/月"
 };
