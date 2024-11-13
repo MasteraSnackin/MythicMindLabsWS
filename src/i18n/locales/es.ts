@@ -22,13 +22,12 @@ export default {
   "Story Weaver": "Tejedor de Historias",
   "Education Pro": "Educación Pro",
   "Custom": "Personalizado",
-  "/mo": "/mes",
+  "per month": "/mes",
   "Most Popular": "Más Popular",
   "Access to sample stories": "Acceso a historias de muestra",
   "Basic AI features": "Funciones básicas de IA",
   "Limited story choices": "Opciones limitadas de historias",
   "Community access": "Acceso a la comunidad",
-  "Get Started": "Comenzar",
   "Unlimited story access": "Acceso ilimitado a historias",
   "Advanced AI features": "Funciones avanzadas de IA",
   "Priority support": "Soporte prioritario",
@@ -43,5 +42,5 @@ export default {
   "Training & support": "Formación y soporte",
   "Contact Sales": "Contactar Ventas",
   "Coming Soon": "Próximamente",
-  "Stay tuned for our educational partnership program, offering special pricing for schools and educational institutions.": "Mantente atento a nuestro programa de asociación educativa, que ofrece precios especiales para escuelas e instituciones educativas."
+  "Educational partnership info": "Mantente atento a nuestro programa de asociación educativa, que ofrece precios especiales para escuelas e instituciones educativas."
 };
